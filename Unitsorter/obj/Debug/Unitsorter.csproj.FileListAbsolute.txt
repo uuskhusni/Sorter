@@ -25,12 +25,12 @@ G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\Unitsorter.pdb
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\sorter.exe
-G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\sorter.pdb
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\sorter.exe.config
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-G:\Luar\AssesmentHana\SorterProject\Unitsorter\obj\Debug\Unitsorter.csproj.AssemblyReference.cache
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\obj\Debug\Unitsorter.csproj.CoreCompileInputs.cache
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\obj\Debug\Unitsorter.csproj.CopyComplete
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\obj\Debug\Unitsorter.dll
 G:\Luar\AssesmentHana\SorterProject\Unitsorter\obj\Debug\Unitsorter.pdb
+G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\sorter.pdb
+G:\Luar\AssesmentHana\SorterProject\Unitsorter\obj\Debug\Unitsorter.csproj.AssemblyReference.cache

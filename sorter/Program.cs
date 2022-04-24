@@ -21,23 +21,31 @@ namespace sorter
     {
         static void Main(string[] args)
         {
-            //args[0] = "unsorted-names-list.txt";
+            //Check argumen input file
             if (args.Length == 0)
             {
-                Console.WriteLine("Invalid args");
+                Console.WriteLine("Please key in filename with txt format");
                 return;
             }
+            //Check exist file txt
             else if (!File.Exists(@args[0].ToString()))
             {
                 Console.WriteLine("File not exists");
                 return;
             }
+            //Check extension input file, should txt
+            else if (Path.GetExtension(@args[0].ToString())!=".txt")
+            {
+                Console.WriteLine("File format should be txt");
+                return;
+            }
+            //Process input file to sort
             else
             {
                 try
                 {
-                    string fileName = @args[0];
-                    sorterandprintProcess(fileName);
+                    //read and sort
+                    sorterandprintProcess(@args[0]);
                     Console.ReadKey();
                 }
                 catch (Exception e)
@@ -67,9 +75,14 @@ namespace sorter
             File.WriteAllLines("sorted-names-list.txt", listPerson.Select(name => (name.firstname=="") ? $"{name.lastname}" : $"{name.firstname} {name.lastname}"));
 
             //print result to screen
-            foreach(var name in listPerson){
+            Console.WriteLine("*******************************************************");
+            Console.WriteLine("Result of sorted name by lastname and then by firstname");
+            Console.WriteLine("-------------------------------------------------------");
+            foreach (var name in listPerson){
                 Console.WriteLine(name.ToString());
             }
+            Console.WriteLine("Sorted file name : sorted-names-list.txt");
+            Console.WriteLine("*******************************************************");
         }
     }
 
