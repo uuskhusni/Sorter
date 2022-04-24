@@ -5,3 +5,11 @@ G:\Luar\AssesmentHana\sorter\sorter\obj\Debug\sorter.csproj.SuggestedBindingRedi
 G:\Luar\AssesmentHana\sorter\sorter\obj\Debug\sorter.csproj.CoreCompileInputs.cache
 G:\Luar\AssesmentHana\sorter\sorter\obj\Debug\sorter.exe
 G:\Luar\AssesmentHana\sorter\sorter\obj\Debug\sorter.pdb
+G:\Luar\AssesmentHana\SorterProject\sorter\bin\Debug\sorter.exe.config
+G:\Luar\AssesmentHana\SorterProject\sorter\bin\Debug\sorter.exe
+G:\Luar\AssesmentHana\SorterProject\sorter\bin\Debug\sorter.pdb
+G:\Luar\AssesmentHana\SorterProject\sorter\obj\Debug\sorter.csproj.AssemblyReference.cache
+G:\Luar\AssesmentHana\SorterProject\sorter\obj\Debug\sorter.csproj.SuggestedBindingRedirects.cache
+G:\Luar\AssesmentHana\SorterProject\sorter\obj\Debug\sorter.csproj.CoreCompileInputs.cache
+G:\Luar\AssesmentHana\SorterProject\sorter\obj\Debug\sorter.exe
+G:\Luar\AssesmentHana\SorterProject\sorter\obj\Debug\sorter.pdb
