@@ -79,7 +79,7 @@ namespace sorter
         public string lastname { get; set; }
         public override string ToString()
         {
-            return string.Format("{0} {1}".Trim(), this.firstname, this.lastname);
+            return string.Format((this.firstname=="") ? "{0}{1}".Trim() : "{0} {1}".Trim(), this.firstname, this.lastname);
         }
 
 
