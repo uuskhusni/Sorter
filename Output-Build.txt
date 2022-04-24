@@ -1,6 +1,6 @@
 ﻿Rebuild started...
 1>------ Rebuild All started: Project: sorter, Configuration: Debug Any CPU ------
-1>  sorter -> G:\Luar\AssesmentHana\sorter\sorter\bin\Debug\sorter.exe
+1>  sorter -> G:\Luar\AssesmentHana\SorterProject\sorter\bin\Debug\sorter.exe
 2>------ Rebuild All started: Project: Unitsorter, Configuration: Debug Any CPU ------
-2>  Unitsorter -> G:\Luar\AssesmentHana\sorter\Unitsorter\bin\Debug\Unitsorter.dll
+2>  Unitsorter -> G:\Luar\AssesmentHana\SorterProject\Unitsorter\bin\Debug\Unitsorter.dll
 ========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
